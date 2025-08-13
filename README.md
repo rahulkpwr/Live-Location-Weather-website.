@@ -62,4 +62,9 @@ Add background images based on weather conditions.
 Include air quality index (AQI).
 Add dark mode for better UX.
 
+**📸 Screenshots**
+
+<img width="800" height="1000" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/527fc237-189d-4b01-91c9-4e5211cc700d" />
+
+
 
